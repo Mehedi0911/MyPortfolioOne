@@ -23,7 +23,7 @@ body{
 
 header{
     background: var(--dark);
-    height: 800px;
+  
 }
 
 .container{
@@ -54,4 +54,36 @@ header nav{
 header nav .logo{
     margin-right: 3rem;
 }
+
+
+.hero .left img{
+    width: 400px;
+}
+
+.hero .right{
+    color: var(--pure);
+}
+.hero .right h3{
+    font-size: 1.2rem;
+    color: var(--pure) ;
+    margin-bottom: 1rem;
+}
+.hero .right h1{
+    font-size: 3rem;
+    font-weight: 100;
+    line-height: 1.2;
+    margin-bottom: 2rem;
+}
+.hero .right h1 span{
+    color: var(--primary);
+}
+
+
+.hero .right p{
+    line-height: 1.5;
+    margin-bottom: 2rem;
+}
+
+
+
 

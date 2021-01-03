@@ -2,6 +2,10 @@
     display: flex;
 }
 
+.flex-1{
+    flex: 1;
+}
+
 .items-center{
     align-items: center;
 }
@@ -24,11 +28,22 @@
 
 .btn-primary{
     background: var(--primary);
-    color: var(--dark);
+    color: var(--pure);
 }
 
 .btn-primary:hover{
     background: transparent;
     border-color: var(--primary);
     color: var(--primary);
+}
+
+.btn-secondary{
+    background: transparent;
+    border-color: var(--primary);
+    color: var(--primary);
+}
+
+.btn-secondary:hover{
+    background: var(--primary);
+    color: var(--pure);
 }
