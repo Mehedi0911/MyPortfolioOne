@@ -14,6 +14,10 @@
     justify-content: space-between;
 }
 
+.justyfy-center{
+    justify-content: center;
+}
+
 .btn{
     padding: 0.8rem 3rem;
     font-size: 1rem;
