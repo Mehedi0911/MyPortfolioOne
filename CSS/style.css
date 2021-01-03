@@ -93,6 +93,66 @@ header nav .logo{
     margin-top:-7rem;
 }
 
+section{
+    padding: 6rem 0;
+}
+
+section.about .about-img{
+    height: 450px;
+}
+
+section.about .right h2{
+
+    font-size: 2rem;  
+    margin-bottom: 1rem;
+
+}
+
+section.about .right span{
+    color: var(--primary);
+    font-weight: bold;
+}
+
+section.about .right h3{
+    margin-bottom: .75rem;
+    font-weight: normal;
+}
+
+section.about .right p{
+    line-height: 1.5;
+    margin-top: .75rem;
+    color: var(--ternary);
+    font-weight: 300;
+
+}
+
+section.about .social{
+    display: flex;
+    margin-top: .75rem;
+}
+
+section.about .social a{
+   display: flex;
+   align-items: center;
+}
+
+section.about .social a img{
+    width: 35px;
+    height: 35px;
+    margin-right: .75rem;
+    transition: all .4s ease;
+    
+}
+
+section.about .social a img:hover{
+    opacity: 70%;
+
+}
+
+
+
+
+
 
 
 
