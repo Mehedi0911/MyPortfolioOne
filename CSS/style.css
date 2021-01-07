@@ -201,7 +201,7 @@ section.services .card-wraper .card img{
 section.services .card-wraper .card h2{
     font-weight: 400;
     font-size: 1.2rem;
-    margin-bottom:.5rem;
+    margin-bottom:.6rem;
 }
 
 section.services .card-wraper .card p{
@@ -218,6 +218,7 @@ section.services .card-wraper .card:hover{
 section.services .card-wraper .card:hover h2 , section.services .card-wraper .card:hover p{
     color: var(--pure);
 }
+
 
 
 
